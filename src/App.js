@@ -5,6 +5,7 @@ import {
   Routes,
 } from 'react-router-dom';
 import Navbar from './components/navbar';
+import Trump from './components/trump'
 import './App.css';
 
 function App() {
@@ -12,8 +13,8 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        {/* <Route exact path="/" element={<Home />} />
-        <Route exact path="/calculator" element={<Calculator />} />
+        <Route exact path="/" element={<Trump />} />
+        {/* <Route exact path="/calculator" element={<Calculator />} />
         <Route exact path="/quote" element={<Quote />} /> */}
       </Routes>
     </Router>

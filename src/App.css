@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+/* TRUMP IMG STYLING */
+.img-container {
+  margin: auto;
+}
+
+.trump-img {
+  width: 70%;
+  padding: 5rem;
+  margin-left: 20rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
