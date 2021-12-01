@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/talking-trump/static/css/main.7bbcde12.chunk.css",
+    "main.js": "/talking-trump/static/js/main.b3387f51.chunk.js",
+    "main.js.map": "/talking-trump/static/js/main.b3387f51.chunk.js.map",
+    "runtime-main.js": "/talking-trump/static/js/runtime-main.9b488b75.js",
+    "runtime-main.js.map": "/talking-trump/static/js/runtime-main.9b488b75.js.map",
+    "static/js/2.5afbdcfc.chunk.js": "/talking-trump/static/js/2.5afbdcfc.chunk.js",
+    "static/js/2.5afbdcfc.chunk.js.map": "/talking-trump/static/js/2.5afbdcfc.chunk.js.map",
+    "index.html": "/talking-trump/index.html",
+    "static/css/main.7bbcde12.chunk.css.map": "/talking-trump/static/css/main.7bbcde12.chunk.css.map",
+    "static/js/2.5afbdcfc.chunk.js.LICENSE.txt": "/talking-trump/static/js/2.5afbdcfc.chunk.js.LICENSE.txt",
+    "static/media/Trump-2.c3892c2e.png": "/talking-trump/static/media/Trump-2.c3892c2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b488b75.js",
+    "static/js/2.5afbdcfc.chunk.js",
+    "static/css/main.7bbcde12.chunk.css",
+    "static/js/main.b3387f51.chunk.js"
+  ]
+}
