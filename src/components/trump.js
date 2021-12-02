@@ -23,7 +23,7 @@ export default function Trump() {
 
         <div className="img-container">
             <Quote />
-            <img className="trump-img" src={trumpImg} alt="BigCo Inc. logo"/>
+            <img className="trump-img" src={trumpImg} alt="Trump confidently pointing"/>
         </div>
     )
 }
