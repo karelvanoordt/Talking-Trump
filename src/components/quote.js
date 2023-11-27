@@ -22,6 +22,7 @@ export default function Quote() {
   return (
     <div className="quote-container">
       <h3 className="quote-text">{ quoteText }</h3>
+      <button onClick={fetchItems}>Get New Quote</button>
     </div>
   );
 }
